@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de combustible</string>
+    <string name="precoLitroGasolina">Precio del combustible</string>
+    <string name="hint">Mejor usar</string>
+    <string name="gasolina">Gasolina</string>
+    <string name="precoLitroEtanol">" Precio del etanol"</string>
+    <string name="etanol">Etanol</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fuel Calculator</string>
+    <string name="precoLitroGasolina">Fuel price </string>
+    <string name="precoLitroEtanol">Ethanol price</string>
+    <string name="hint">Better to use...</string>
+    <string name="gasolina">Fuel</string>
+    <string name="etanol">Ethanol</string>
+</resources>
